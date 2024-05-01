@@ -1,25 +1,25 @@
 {
-    "id": 1,
-    "image": "https://immutable.github.io/sample-project-metadata/tokens/token1.webp",
-    "token_id": "1",
-    "background_color": null,
-    "animation_url": null,
-    "youtube_url": null,
-    "name": "Test zkEVM NFT #1",
-    "description": "This NFT is my first Immutable zkEVM NFT",
-    "external_url": null,
-    "attributes": [
-      {
-        "trait_type": "Hat",
-        "value": "Top Hat"
-      },
-      {
-        "trait_type": "Coat",
-        "value": "Tails"
-      },
-      {
-        "trait_type": "Neck",
-        "value": "Bow Tie"
-      }
-    ]
-  }
+  "id": 1,
+  "image": "https://sapphire-changing-porpoise-679.mypinata.cloud/ipfs/QmYP7poaSeyvzhZmypVh7AFotw2ZkCtbVGbGMCn4wdd95o",
+  "token_id": "1",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Test googlex chainlink NFT",
+  "description": "This NFT is my first zkEVM NFT created on Immutable",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Hat",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Coat",
+      "value": "Tails"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Bow Tie"
+    }
+  ]
+}
